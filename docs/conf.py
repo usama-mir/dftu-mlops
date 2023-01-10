@@ -231,7 +231,7 @@ man_pages = [
 texinfo_documents = [
     ('index', 'codestructure', u'codestructure Documentation',
      u"usmir", 'codestructure',
-     'Used for mlops course at DTU', 'Miscellaneous'),
+     'Used for dftu-mlops course at DTU', 'Miscellaneous'),
 ]
 
 # Documents to append as an appendix to all manuals.

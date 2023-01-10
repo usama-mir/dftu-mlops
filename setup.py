@@ -4,7 +4,7 @@ setup(
     name='src',
     packages=find_packages(),
     version='0.1.0',
-    description='Used for mlops course at DTU',
+    description='Used for dftu-mlops course at DTU',
     author='usmir',
     license='BSD-3',
 )
