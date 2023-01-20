@@ -2,7 +2,7 @@ from tests import _PATH_DATA
 import torch
 
 def test_data():
-    dataset_len = 25000
+    dataset_len = 25001
     train_data_shape = torch.load(f"{_PATH_DATA}/train_data.pt").shape
     train_labels_shape = torch.load(f"{_PATH_DATA}/train_labels.pt").shape
     test_data_shape = torch.load(f"{_PATH_DATA}/test_data.pt").shape
